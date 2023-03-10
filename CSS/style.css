@@ -1,0 +1,104 @@
+.box1 {
+    text-align: center;
+    padding: 200px;
+    margin: 10px;
+
+}
+
+#search {
+    width: 600px;
+    height: 35px;
+    border-radius: 25px;
+    opacity: 0.2;
+
+}
+
+.rad {
+    background-color: gainsboro;
+    border: 0;
+    width: 150px;
+    height: 40px;
+    opacity: 0.6;
+}
+
+.text {
+    text-align: left;
+    word-spacing: 15px;
+}
+
+.decoration {
+    text-decoration: none;
+    margin-left: 10px;
+}
+
+#href {
+    background-color: whitesmoke;
+    width: 50%;
+    height: 30px;
+    border: 1px;
+    float: left;
+    text-decoration: none;
+    text-align: left;
+    word-spacing: 5px;
+    color: rgb(17, 220, 41);
+    margin-bottom: 0;
+
+
+}
+
+#son {
+    background-color: whitesmoke;
+    width: 50%px;
+    height: 30px;
+    border: 1px;
+    float: end;
+    margin: auto;
+    text-decoration: none;
+    text-align: right;
+    word-spacing: 5px;
+    color: rgb(195, 186, 186);
+    margin-bottom: 0;
+
+}
+
+
+
+
+#end {
+    text-align: end;
+    word-spacing: 15px;
+    text-decoration: none;
+}
+
+.end2 {
+    text-align: left;
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+    margin: 5px;
+    word-spacing: 5px;
+    background-size: 32px 32px;
+
+}
+
+a {
+    text-decoration: none;
+}
+.fa-brands{
+    font-size: 25px;
+    position: absolute;
+    margin: 7px;
+    margin-left:15px;
+    margin-top:8px ;
+    
+    
+    
+}
+.fa-solid {
+    font-size: 25px;
+    float: right;
+    margin-left:570px;
+    margin-top: 8px;
+    position: absolute;
+}
